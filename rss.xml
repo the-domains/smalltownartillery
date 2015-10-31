@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SmallTownArtillery]]></title>
-        <description><![CDATA[SmallTownArtillery]]></description>
-        <link>https://thegrid.ai/smalltownartillery/</link>
+        <title><![CDATA[Small Town Artillery]]></title>
+        <description><![CDATA[Small Town Artillery]]></description>
+        <link>http://www.smalltownartillery.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 21:10:58 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/smalltownartillery/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 31 Oct 2015 21:25:52 GMT</lastBuildDate>
+        <atom:link href="http://www.smalltownartillery.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VIDEOS]]></title>
+            <description><![CDATA[<h1>VIDEOS</h1>]]></description>
+            <link>http://www.smalltownartillery.com/videos/index.html</link>
+            <guid isPermaLink="false">c6062540-129e-4ea4-b356-49968b8f8bcc</guid>
+            <pubDate>Sat, 31 Oct 2015 21:25:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Videos]]></title>
             <description><![CDATA[<article><h1>Videos</h1><p>Videos of Small Town Artillery</p></article>]]></description>
-            <link>https://thegrid.ai/smalltownartillery/videos/index.html</link>
+            <link>http://www.smalltownartillery.com/videos/index.html</link>
             <guid isPermaLink="false">c92d03c3-d5b6-4eae-b57b-4726f248ea34</guid>
             <pubDate>Sat, 31 Oct 2015 21:10:06 GMT</pubDate>
         </item>

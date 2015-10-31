@@ -1,0 +1,23 @@
+name: SmallTownArtillery
+favicon: null
+layout_spectrum: 0.674616729374975
+typography_spectrum: 0.08279203996062279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.807504172436893
+  lightness: 0.4919893539045006
+  saturation: 0.1167887335177511
+  rhythmicContrast: 0.20939399441704154
+purpose: []
